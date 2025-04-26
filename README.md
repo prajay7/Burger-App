@@ -64,7 +64,7 @@ flutter doctor
 ```bash
 git clone https://github.com/prajay7/Burger-App.git
 
-cd burger-app-ui
+cd burger-app
 ```
 
 ---
